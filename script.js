@@ -1,6 +1,6 @@
 function inserirNome(){
-   let nomeUsuario = prompt("Yan");
-   let elemento = document.querySelector("#Yangrasiel");
+   let nomeUsuario = prompt("Qual seu nome");
+   let elemento = document.querySelector("#Nome de usurio");
    console.log(elemento);
    elemento.textContent = nomeUsuario;
 }
