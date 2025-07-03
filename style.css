@@ -1,8 +1,16 @@
-background-color: #305050;
+body  {	
+	background-color: #305050;
+	color: white;
+}
 
-color: white;
+h2{
+  color:orange;
+}
 
-body {
-    background-color: #305050;
-    color: rgb(20, 20, 20);
+.texto-inglês{
+    font-style: italic;
+}
+
+#nome-usuário{
+    font-weight: bold;
 }
